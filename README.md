@@ -1,6 +1,6 @@
 Para instalação serão necessários atender alguns dos requisitos mínimos:
 * Composer 2.0
-* PHP >= 7.4.11
+* PHP >= 7.3 *`(ideal 7.4 ou superior)`*
 * Saber utilizar o terminal
 
 Seguindo as instruções passso-a-passo abaixo iniciará o app:
