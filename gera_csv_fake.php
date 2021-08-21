@@ -1,7 +1,7 @@
 <?php
 $pathToCsv = __DIR__ . '/exemplo.csv';
 
-$quantos_itens = 10000 * 1000;
+$quantos_itens = 500;//Gera um csv com 500 linhas
 
 $cabecalho_linha = "id,email,nome";
 
